@@ -1,7 +1,9 @@
 # MLSOS
-The goal of the project is to accelerate the discovery of solutions for MIPs with SOS1 constraints. The methodology called Probe and Freeze (PNF) uses a data-driven tools to predict the solution in a one-shot fashion. For an overview, see the jopt2023.pdf in the docs folder. The paper is currently under review.
+The goal of the project is to accelerate the discovery of solutions for MIPs with SOS1 constraints. The methodology called Probe and Freeze (PNF) uses a data-driven tools to predict the solution in a one-shot fashion. For an overview, see the jopt2023.pdf in the docs folder. 
 
-Note: This codebase is a fork of the original codebase which means that it contains functions and types that are never used. In particular, the code for the locomotive assignment problem was removed for confidentiality reasons. This codebase only supports MIPLIB instances. 
+Link to published paper: https://link.springer.com/article/10.1007/s43069-024-00336-6
+
+Note: The code for the locomotive assignment problem was removed for confidentiality reasons. This codebase only supports MIPLIB instances. 
 
 
 # Installation 
